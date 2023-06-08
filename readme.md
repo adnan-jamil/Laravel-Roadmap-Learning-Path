@@ -1,22 +1,3 @@
-# IMPORTANT: March 2022
-
-It's horrible to see what is happening now in Ukraine, as Russian army is [bombarding houses, hospitals and kindergartens](https://twitter.com/DavidCornDC/status/1501620037785997316). 
-
-Please [check out supportukrainenow.org](https://supportukrainenow.org/) for the ways how you can help people there. Spread the word.
-
-And if you are from Russia and you are against this war, please express your protest in some way. I know you can get punished for this, but you are one of the hopes of those innocent people.
-
----
-
-# Laravel Learning Path
-
-This repository contains the **ordered** list of Laravel topics to learn, step-by-step, with related links.
-
-If you want to add a topic, link, or any other suggestion, please open Issues or Pull Requests.
-
-**Notice**: This content was filled into an adminpanel generated with our [QuickAdminPanel](https://quickadminpanel.com?utm_source=github&utm_campaign=roadmap) - here's a [video demo of that process on Youtube](https://www.youtube.com/watch?v=i2ElUDUDRms). By purchasing QuickAdminPanel, you support my free initiatives, like this Roadmap.
-
---- 
 
 ## Beginner Level
 Create your very first simple Laravel project
